@@ -1,28 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">A Tech Enthusiast | Full Stack Web Developer | Problem Solver</h3>
+# React + Vite
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitkumarii&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumarii" />
-</p>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-### 👨‍💻 About Me
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- 🎓 I'm currently a **3rd-year B.Tech student** at the **Institute of Engineering and Management (IEM)**.
-- 💻 Passionate about **Full Stack Web Development** and constantly building real-world web applications.
-- 🔍 Love to solve **algorithmic and data structure problems**.
-- 🌱 Currently exploring backend frameworks like **Node.js**, **Express.js**, and databases like **MongoDB** and **MySQL**.
-- 🚀 Actively sharpening my skills to become a **software engineer with strong development and problem-solving capabilities**.
+## Expanding the ESLint configuration
 
----
-
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](www.linkedin.com/in/ankit-kumar-263b1a28a)
-- 📧 Email: [ankitsah06720@gmail.com] 
-
----
-
-⭐ *Thanks for visiting my GitHub! Feel free to check out my repositories and reach out if you'd like to collaborate.*
-
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
